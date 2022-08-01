@@ -1,0 +1,31 @@
+.header {
+    background-color: #555555;
+    color: #fff;
+    font-size: 46px;
+    font-weight: 900;
+    font-style: italic;
+    border: 5px solid red;
+    text-align: center;
+
+}
+.header span{
+    color: red;
+}
+.footer {
+    background-color: #666;
+}
+.img{
+    width: 500px;
+     height: 500px;
+    border-radius: 50%;
+}
+
+.hero {
+    background-color: rgba(190, 117, 202, 0.889);
+}
+.about {
+    background-color: rgb(153, 153, 217);
+}
+.article {
+    background-color: yellow;
+}
